@@ -1,5 +1,5 @@
 
-> Python version : 3.13.11
+> Python 3.10.19
 
 
 # Algorithmic Trading

@@ -1,7 +1,7 @@
-matplotlib
-notebook
 numpy
 pandas
+matplotlib
+notebook
 yfinance
 
 
